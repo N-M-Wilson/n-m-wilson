@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am an aspring Software Developer currently working for Bank of Montreal.
 <!--
 **N-M-Wilson/n-m-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
